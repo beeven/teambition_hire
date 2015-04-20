@@ -1,0 +1,7 @@
+{
+  "name": "hook",
+  "version": "0.0.1",
+  "devDependencies": {
+    "should": "^6.0.1"
+  }
+}
