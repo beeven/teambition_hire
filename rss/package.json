@@ -1,0 +1,9 @@
+{
+  "name": "rss-fetcher",
+  "version": "0.0.1",
+  "dependencies": {
+    "minimist": "^1.1.1",
+    "nomnom": "^1.8.1"
+    },
+  "main":"main.js"
+}
